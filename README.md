@@ -1,6 +1,7 @@
 # emulators-codelab
 
 This repository contains the companion code for the [Firebase Local Emulator Suite codelab][codelab].
+This is a test version for Summer use only
 For more information on the Firebase Emulator Suite check out the [learning pathway][pathway].
 
 ## How to use this repository
